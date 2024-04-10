@@ -11,6 +11,10 @@ de code n'est pas autorisé.
 
 🧘 Pas d'inquiétude si tu ne termines pas tout le projet. L'objectif est de montrer ta compréhension de la conception et l'utilisation des outils proposés par Laravel.
 
+🚀 Le projet embarque les dépendances suivantes :
+- Laravel Breeze
+- Laravel Telescope
+
 ## ℹ️ Introduction
 
 L'objectif de ce projet est de mettre en pratique tes compétences en conception et modélisation de bases de

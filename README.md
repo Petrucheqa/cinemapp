@@ -7,6 +7,10 @@ Tout support est autorisé (internet, projets précédents...)
 🤖 L'utilisation d'IA est autorisée pour t'aider à résoudre des bugs ou t'orienter dans tes recherches. Le copier-coller
 de code n'est pas autorisé.
 
+👨‍🎨 Il n'est pas nécessaire de faire de design ou plusieurs vues pour ce projet.
+
+🧘 Pas d'inquiétude si tu ne termines pas tout le projet. L'objectif est de montrer ta compréhension de la conception et l'utilisation des outils proposés par Laravel.
+
 ## ℹ️ Introduction
 
 L'objectif de ce projet est de mettre en pratique tes compétences en conception et modélisation de bases de

@@ -1,6 +1,6 @@
 # 🎬 Conception d'une base de données pour la réservation de séance au cinéma 🎥
 
-⏰ Durée : 4 heures 30 minutes
+⏰ Durée : 5 heures
 
 Tout support est autorisé (internet, projets précédents...)
 
